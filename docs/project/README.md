@@ -6,3 +6,4 @@
 | --- | --- |
 | [soy](./soy/) | Пушкин Александр Сергеевич, Крузенштерн Иван Федорович |
 | [habr-posts-likes-prediction](./habr-posts-likes-prediction/) | Беликов Павел, Веснин Дмитрий |
+| [heart-desease-risk](./heart-desease-risk/) | Ефаринов Павел |

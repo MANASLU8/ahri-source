@@ -14,3 +14,4 @@
 | [electricity-consumption-forecasting](./electricity-consumption-forecasting/) | Полежаева Евгения |
 | [cpu-utilization-prediction](./cpu-utilization-prediction/) | Лопатин Алексей, Денисенков Артем |
 | [super-resolution](./super-resolution/) | Строкова Анастасия |
+| [speech-emotion-recognition](./speech-emotion-recognition/) | Сикора Алексей |

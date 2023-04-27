@@ -11,7 +11,7 @@
 6. Развертывание наилучшей модели.  
 
 Датасет: [Habr dataset](https://huggingface.co/datasets/IlyaGusev/habr)  
-Проект: [habr-posts-likes-prediction](https://github.com/P-a-V-e-LL/habr-posts-likes-prediction)
+Проект: [habr-posts-likes-prediction](https://github.com/qwertyforce/test_github_actions)
 
 ### Целесообразность использования датасета для решения поставленной задачи:
 Датасет содержит текст статьи, заголовок, статистику по лайкам/комментариям.

@@ -16,3 +16,4 @@
 | [cpu-utilization-prediction](./cpu-utilization-prediction/) | Лопатин Алексей, Денисенков Артем |
 | [super-resolution](./super-resolution/) | Строкова Анастасия |
 | [classification-emotional-speech](./classification-emotional-speech/) | Герасимчук Михаил |
+  | [stock-news-sentiment-analyzer](./stock-news-sentiment-analyzer) | Вансович Алексей |

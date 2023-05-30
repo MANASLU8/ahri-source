@@ -1,0 +1,24 @@
+{
+  "name": "ahri",
+  "version": "0.0.1",
+  "description": "Practical tasks for the 'Architecture of Artificial Intelligence Systems' discipline",
+  "main": "index.js",
+  "authors": {
+    "name": "Zeio Nara",
+    "email": "zeionara@gmail.com"
+  },
+  "repository": "https://github.com/MANASLU8/ahri-source.git",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.8"
+  },
+  "dependencies": {
+    "@adamdehaven/vuepress-plugin-custom-tooltip": "^1.4.3",
+    "@vuepress/plugin-back-to-top": "^1.9.8",
+    "@vuepress/plugin-nprogress": "^1.9.8"
+  }
+}

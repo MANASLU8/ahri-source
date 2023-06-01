@@ -39,3 +39,16 @@ Youtube Statistics содержит 2 файла, в которых описан
 </div>
 
 <p align="center">Рис.2 tfidf</p>
+
+Deploy diagram
+
+![Рисунок 3. Диаграмма развертывания](./img/deploy.png)
+
+#### Workflow diagram
+
+![Рисунок 4. Диаграмма бизнеспроцесса](./img/act.png)
+
+#### Component diagram
+
+![Рисунок 4. Диаграмма бизнеспроцесса](./img/components.png)
+

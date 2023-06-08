@@ -18,4 +18,5 @@
 | [super-resolution](./super-resolution/) | Строкова Анастасия |
 | [classification-emotional-speech](./classification-emotional-speech/) | Герасимчук Михаил |
 | [stock-news-sentiment-analyzer](./stock-news-sentiment-analyzer) | Вансович Алексей |
+| [LastFm-Artists-Rec](./LastFm-Artists-Rec) | Грищенков Никита |
 | [habr-articles-labler](./habr-articles-labler/) | Резбаев Радмир, Марченко Артем |

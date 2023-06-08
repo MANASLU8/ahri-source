@@ -6,7 +6,7 @@
 | --- | --- |
 | [soy](./soy/) | Пушкин Александр Сергеевич, Крузенштерн Иван Федорович |
 | [russian-hate-speech-classifier](./russian-hate-speech-classifier/) | Хаяров Эльдар, Филиппенко Илья |
-| [curriculum-vitae-screening](./curriculum-vitae-screening) | Гораш Вячеслав, Машина Екатерина |
+| [curriculum-vitae-screening](./curriculum-vitae-screening) | Гораш Вячеслав, Машина Екатерина|
 | [habr-posts-likes-prediction](./habr-posts-likes-prediction/) | Беликов Павел, Веснин Дмитрий |
 | [heart-desease-risk](./heart-desease-risk/) | Ефаринов Павел |
 | [wine-predictor](./wine-predictor/) | Кунаковский Артём |

@@ -22,3 +22,4 @@
 | [LastFm-Artists-Rec](./LastFm-Artists-Rec) | Грищенков Никита |
 | [habr-articles-labler](./habr-articles-labler/) | Резбаев Радмир, Марченко Артем |
 | [comment-emotionality-classification](./comment-emotionality-classification/) | Проскурин Глеб, Мангараков Александр |
+| [face-emotion-recognition](./face-emotion-recognition) | Якушев Алексей |

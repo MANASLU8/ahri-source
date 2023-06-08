@@ -22,5 +22,3 @@
 | [LastFm-Artists-Rec](./LastFm-Artists-Rec) | Грищенков Никита |
 | [habr-articles-labler](./habr-articles-labler/) | Резбаев Радмир, Марченко Артем |
 | [face-emotion-recognition](./face-emotion-recognition) | Якушев Алексей |
-
-

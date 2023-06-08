@@ -2,11 +2,13 @@
 #### Автор: Строкова Анастасия (P4140)
 ### Решение задачи super-resolution с помощью нейронной сети
 
+### Часть 1. Определение границ проекта
+
 #### Цель -  создание инструмента для апробации и сравнения архитектур  нейронных сетей, нацеленных на получение изображений сверхвысокого  разрешения (Super – Resolution) фотографий, сделанных на  непрофессиональную камеру.
 #### Задачи:
 1. Проанализировать найденный датасет.
 2. Спроектировать архитектуру системы искусственного интеллекта.
-3. Подготовить данные для обучения нейронных сетей EDSR (Enhanced Deep Residual Networks for Single Image Super-Resolution) и SRGAN (Single Image Super-Resolution using a Generative Adversarial Network).
+3. Подготовить данные для обучения нейронных сетей EDSR (Enhanced Deep Residual Networks for Single Image Super-Resolution), RDN (Residual Dense Network) и SRGAN (Single Image Super-Resolution using a Generative Adversarial Network).
 4. Обучить модель на основе обучающей выборки и провести оценку полученных результатов.
 5. Подготовить тестовый набор данных и провести оценку полученных результатов на данном наборе.
 6. Выбрать оптимальную модель нейронной сети для решения задачи Super-Resolution, исходя из качества и скорости работы алгоритмов.
@@ -37,11 +39,18 @@
 * [Датасет](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
 * [Репозиторий проекта](https://github.com/kivirciks/super-resolution)
 
+
+### Часть 2. Разработка архитектуры системы
+
 #### UML-диаграммы
 ##### Диаграмма активностей
 <img src="https://github.com/kivirciks/super-resolution/blob/main/pictures/Workflow.png" width="1000">
 Рисунок 4. Диаграмма активностей
 
 ##### Диаграмма компонентов
-<img src="https://github.com/kivirciks/super-resolution/blob/main/pictures/Component.png" width="400">
+<img src="https://github.com/kivirciks/super-resolution/blob/main/pictures/UML_Component.png" width="400">
 Рисунок 5. Диаграмма компонентов
+
+##### Диаграмма развертывания
+<img src="https://github.com/kivirciks/super-resolution/blob/main/pictures/UML_Deployment.png" width="400">
+Рисунок 6. Диаграмма развертывания

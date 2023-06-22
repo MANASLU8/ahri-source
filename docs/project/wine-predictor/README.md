@@ -28,4 +28,20 @@ https://www.kaggle.com/datasets/shilongzhuang/red-and-white-wine-quality
 ![image info](./images/space_red.png)
 
 
+# Разработка архитектуры системы
 
+### Диаграмма компонентов
+
+![image info](./images/comps.jpg)
+
+
+### Диаграмма активностей процесса работы системы
+
+![image info](./images/actives.jpg)
+
+
+
+## Deployment diagram
+
+
+![image info](./images/depl.png)

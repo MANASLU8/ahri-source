@@ -24,3 +24,4 @@
 | [comment-emotionality-classification](./comment-emotionality-classification/) | Проскурин Глеб, Мангараков Александр |
 | [face-emotion-recognition](./face-emotion-recognition) | Якушев Алексей |
 | [movie-recomender](./movie-recomender) | Филиппенко Илья |
+| [restaurant-review-prediction](./restaurant-review-prediction) | Расковалова Алёна |

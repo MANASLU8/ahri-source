@@ -23,4 +23,5 @@
 | [habr-articles-labler](./habr-articles-labler/) | Резбаев Радмир, Марченко Артем |
 | [comment-emotionality-classification](./comment-emotionality-classification/) | Проскурин Глеб, Мангараков Александр |
 | [face-emotion-recognition](./face-emotion-recognition) | Якушев Алексей |
+| [movie-recommender](./movie-recommender) | Владимирский Сергей |
 | [movie-recomender](./movie-recomender) | Филиппенко Илья |
